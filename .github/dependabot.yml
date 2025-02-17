@@ -9,3 +9,4 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+    pull-request-limit: 100
